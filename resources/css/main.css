@@ -36,3 +36,43 @@ li a {
     color: white;
     text-decoration: none;
 }
+
+#process {
+  margin: auto;
+  width: 75%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#process div {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+#identify {
+  text-align: center;
+  display: inline-block;
+}
+
+#understand {
+  text-align: center;
+  display: inline-block;
+}
+
+#execute {
+  text-align: center;
+  display: inline-block;
+}
