@@ -57,6 +57,10 @@ p {
   font-size: 14px;
 }
 
+#process {
+  margin-top: 50px;
+}
+
 #process div {
   margin-left: 50px;
   margin-right: 50px;
@@ -75,4 +79,31 @@ p {
 #execute {
   text-align: center;
   display: inline-block;
+}
+
+
+
+
+#headline{
+  color: white;
+  background-color: grey;
+  opacity: 0.6;
+  padding: 25px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#about ul {
+  position: relative;
+  margin: -50px 50px 0px 50px;
+  text-align: center;
+}
+
+#about li {
+  display: inline-block;
+}
+
+#contact {
+  position: relative;
+  top: 63px;
 }
